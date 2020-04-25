@@ -1,8 +1,3 @@
-
-# Snapptrip! Code Challenge: Front-end
-
-Thank you for your interest in joining Snapptrip! family. This repo contains exercises used in the Snapptrip's front-end recruitment process.
-
 ## What is this?
 The coding exercise is the first stage of the interview process. 
 This contains multiple challenges, each challenge has tests accompanying it so you know exactly when the challenge is solved.
