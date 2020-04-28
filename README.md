@@ -50,7 +50,7 @@ git commit -m "chore: challenges solved"
 
 ### Bundle the Repository
 ```
-git bundle create repo.bundle master
+git bundle create repo.bundle HEAD
 ```
 
 **Navigate to project directory and attach *repo.bundle* file in your reply to Snapptrip!'s code challenge email.**
